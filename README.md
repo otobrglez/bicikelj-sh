@@ -1,6 +1,6 @@
 # bicikelj.sh
 
-This is [BicikeLJ][BicikeLJ] client CLI implemented in [Bash].
+This is [BicikeLJ][BicikeLJ] client implemented in [Bash].
 
 Capabilities:
 
