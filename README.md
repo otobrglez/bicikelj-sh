@@ -1,4 +1,4 @@
-# BicikeLJ.sh
+# bicikelj.sh
 
 This is [BicikeLJ][BicikeLJ] client CLI implemented in [Bash].
 
