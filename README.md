@@ -4,8 +4,14 @@ This is [BicikeLJ][BicikeLJ] client implemented in [Bash].
 
 Capabilities:
 
-- Get nearest BicikeLJ stations that have free bicycles. Location is extracted from your IP address with [ipstack] API.
-- Get nearest stations for perticular location - expressed in text.
+- Get nearest BicikeLJ stations that have free bicycles. Location is extracted from your IP address. with the helo of .
+- Get nearest stations for perticular location - expressed in text. 
+
+
+Web Services and APIs
+- Location is extracted from your IP address with the help of [ipstack] API
+- Forward geocoding service is done with [positionstack] API.
+- BicikeLJ information is provided by [Ljubljana PromInfo](https://prominfo.projekti.si/web/)
 
 - [Oto Brglez](https://github.com/otobrglez)
 
@@ -23,3 +29,4 @@ ls *.sh | entr ./bicikelj.sh "Ljubljana Dunajska 5"
 [jq]: https://stedolan.github.io/jq/
 [curl]: https://curl.se/
 [ipstack]: https://ipstack.com
+[positionstack]:https://positionstack.com/
