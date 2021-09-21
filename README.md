@@ -1,6 +1,6 @@
 # BicikeLJ.sh
 
-This is [BicikeLJ][BicikeLJ] CLI implemented in [Bash].
+This is [BicikeLJ][BicikeLJ] client CLI implemented in [Bash].
 
 - [Oto Brglez](https://github.com/otobrglez)
 
