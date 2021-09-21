@@ -4,7 +4,7 @@ This is [BicikeLJ][BicikeLJ] client implemented in [Bash].
 
 Capabilities:
 
-- Get nearest BicikeLJ stations that have free bicycles. Location is extracted from your IP address. with the helo of .
+- Get nearest BicikeLJ stations that have free bicycles. Location is extracted from your IP address.
 - Get nearest stations for perticular location - expressed in text. 
 
 
