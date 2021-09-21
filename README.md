@@ -37,15 +37,13 @@ The output will show 3 nearest stations that have bikes available. I.e.
 ]
 ```
 
+### Capabilities
 
+- Gets the nearest BicikeLJ bicycle stations that has free bicycles. Location is extracted from your IP address.
+- Gets the nearest stations for particular location - expressed in text. 
 
-Capabilities:
+### Web Services and APIs
 
-- Get nearest BicikeLJ stations that have free bicycles. Location is extracted from your IP address.
-- Get nearest stations for perticular location - expressed in text. 
-
-
-Web Services and APIs
 - Location is extracted from your IP address with the help of [ipstack] API
 - Forward geocoding service is done with [positionstack] API.
 - BicikeLJ information is provided by [Ljubljana PromInfo](https://prominfo.projekti.si/web/)

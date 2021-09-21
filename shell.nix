@@ -7,7 +7,4 @@ stdenv.mkDerivation {
       jq
       bash
     ];
-
-    shellHook = ''
-    '';
 }
