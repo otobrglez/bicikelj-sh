@@ -48,6 +48,7 @@ The output will show 3 nearest stations that have bikes available. I.e.
 - Forward geocoding service is done with [positionstack] API.
 - BicikeLJ information is provided by [Ljubljana PromInfo](https://prominfo.projekti.si/web/)
 
+### Dependencies
 
 This script depends on the following tools: [jq], [curl]
 and standard toolset with `bc`, `echo`, `cat` and `sed`.
